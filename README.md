@@ -239,3 +239,6 @@ This repository serves as the official landing page for Live-RadioTV Toolbar. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Live-RadioTV Toolbar today!**
+
+---
+**Last updated:** 2026-09-08 14:50:08 UTC
